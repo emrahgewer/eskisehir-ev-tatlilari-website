@@ -6,7 +6,7 @@ export const products = [
     description: 'Bol cevizli, tarçınlı ve krem peynir dolgulu klasik lezzet.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'cake-002',
@@ -33,7 +33,7 @@ export const products = [
     description: 'Ceviz ve incirle zenginleştirilmiş, muhallebi ile hazırlanan özel tatlı. (En az 10 dilim sipariş alınır)',
     price: 30,
     unit: 'Dilim',
-    image: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'cookie-001',
@@ -51,7 +51,7 @@ export const products = [
     description: 'Taze dereotlu ve peynirli, ev yapımı poğaça.',
     price: 110,
     unit: '20 Adet',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'pastry-002',
@@ -60,7 +60,7 @@ export const products = [
     description: 'Taze ıspanaklı, kat kat açılmış özel börek.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'salad-001',
@@ -69,7 +69,7 @@ export const products = [
     description: 'Nar ekşili, taze yeşillikli ve bol limonlu kısır.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'salad-002',
@@ -78,7 +78,7 @@ export const products = [
     description: 'Taze patates, mayonez ve baharatlarla hazırlanan klasik salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'salad-003',
@@ -87,7 +87,7 @@ export const products = [
     description: 'Taze makarna, sebzeler ve özel sos ile hazırlanan salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
   {
     id: 'salad-004',
@@ -96,6 +96,6 @@ export const products = [
     description: 'Arpa şehriye, sebzeler ve özel sos ile hazırlanan tavuksuz salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop&auto=format',
+    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Yakında',
   },
 ]
