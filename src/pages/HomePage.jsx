@@ -7,7 +7,7 @@ const featuredTreats = [
     description: 'Bol cevizli, tarçınlı ve krem peynir dolgulu klasik lezzet.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://placehold.co/600x400/F5F0E6/DCA767?text=Yakında',
+    image: 'https://placehold.co/600x400/F5F0E6/DCA767?text=Görseller+yakında+yüklenecek',
   },
   {
     name: 'Islak Kek',
@@ -28,7 +28,7 @@ const featuredTreats = [
     description: 'Nar ekşili, taze yeşillikli ve bol limonlu kısır.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/600x400/F5F0E6/DCA767?text=Yakında',
+    image: 'https://placehold.co/600x400/F5F0E6/DCA767?text=Görseller+yakında+yüklenecek',
   },
 ]
 
