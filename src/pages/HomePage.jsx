@@ -7,28 +7,28 @@ const featuredTreats = [
     description: 'Bol cevizli, tarçınlı ve krem peynir dolgulu klasik lezzet.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://placehold.co/600x400/EDC4B8/4A4238?text=Havuçlu+Tarçınlı+Kek',
+    image: 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=600&h=400&fit=crop&auto=format',
   },
   {
     name: 'Islak Kek',
     description: 'Yoğun çikolatalı, hafif bitter ve yumuşacık kıvamlı.',
     price: 250,
     unit: 'Tepsi',
-    image: 'https://placehold.co/600x400/DCA767/4A4238?text=Islak+Kek',
+    image: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&h=400&fit=crop&auto=format',
   },
   {
     name: 'Orman Meyveli Kek',
     description: 'Taze orman meyveleri ile hazırlanan özel lezzet.',
     price: 500,
     unit: 'Tepsi',
-    image: 'https://placehold.co/600x400/EDC4B8/4A4238?text=Orman+Meyveli+Kek',
+    image: 'https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop&auto=format',
   },
   {
     name: 'Kısır',
     description: 'Nar ekşili, taze yeşillikli ve bol limonlu kısır.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/600x400/DCA767/4A4238?text=Kısır',
+    image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&h=400&fit=crop&auto=format',
   },
 ]
 
@@ -100,7 +100,14 @@ const HomePage = () => {
           </p>
 
           <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-            {Array.from({ length: 6 }).map((_, idx) => (
+            {[
+              'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=300&h=300&fit=crop&auto=format',
+              'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=300&h=300&fit=crop&auto=format',
+              'https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=300&h=300&fit=crop&auto=format',
+              'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=300&fit=crop&auto=format',
+              'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=300&fit=crop&auto=format',
+              'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=300&h=300&fit=crop&auto=format',
+            ].map((imgUrl, idx) => (
               <a
                 key={idx}
                 href="https://www.instagram.com/eski_kek26?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
@@ -110,7 +117,7 @@ const HomePage = () => {
               >
                 <div className="aspect-square w-full overflow-hidden">
                   <img
-                    src="https://placehold.co/300x300/F5F0E6/DCA767?text=IG+Post"
+                    src={imgUrl}
                     alt="Instagram paylaşımı"
                     className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
                   />

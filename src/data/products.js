@@ -6,7 +6,7 @@ export const products = [
     description: 'Bol cevizli, tarçınlı ve krem peynir dolgulu klasik lezzet.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://placehold.co/400x300/FFFBF2/4A4238?text=Havuçlu+Tarçınlı+Kek',
+    image: 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'cake-002',
@@ -15,7 +15,7 @@ export const products = [
     description: 'Yoğun çikolatalı, hafif bitter ve yumuşacık kıvamlı.',
     price: 250,
     unit: 'Tepsi',
-    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Islak+Kek',
+    image: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'cake-003',
@@ -24,7 +24,7 @@ export const products = [
     description: 'Taze orman meyveleri ile hazırlanan özel lezzet.',
     price: 500,
     unit: 'Tepsi',
-    image: 'https://placehold.co/400x300/EDC4B8/4A4238?text=Orman+Meyveli+Kek',
+    image: 'https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'milky-001',
@@ -33,7 +33,7 @@ export const products = [
     description: 'Ceviz ve incirle zenginleştirilmiş, muhallebi ile hazırlanan özel tatlı. (En az 10 dilim sipariş alınır)',
     price: 30,
     unit: 'Dilim',
-    image: 'https://placehold.co/400x300/F7E7DE/4A4238?text=Cevizli+İncirli+Tatlı',
+    image: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'cookie-001',
@@ -42,7 +42,7 @@ export const products = [
     description: 'Kış aylarına özel, tarçınlı ve kıyır kıyır kurabiye.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Tarçınlı+Kış+Kurabiyesi',
+    image: 'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'pastry-001',
@@ -51,7 +51,7 @@ export const products = [
     description: 'Taze dereotlu ve peynirli, ev yapımı poğaça.',
     price: 110,
     unit: '20 Adet',
-    image: 'https://placehold.co/400x300/FFFBF2/4A4238?text=Dereotlu+Peynirli+Poğaça',
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'pastry-002',
@@ -60,7 +60,7 @@ export const products = [
     description: 'Taze ıspanaklı, kat kat açılmış özel börek.',
     price: 350,
     unit: 'Tepsi',
-    image: 'https://placehold.co/400x300/DCA767/4A4238?text=Ispanaklı+Gül+Böreği',
+    image: 'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'salad-001',
@@ -69,7 +69,7 @@ export const products = [
     description: 'Nar ekşili, taze yeşillikli ve bol limonlu kısır.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/400x300/EDC4B8/4A4238?text=Kısır',
+    image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'salad-002',
@@ -78,7 +78,7 @@ export const products = [
     description: 'Taze patates, mayonez ve baharatlarla hazırlanan klasik salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/400x300/F5F0E6/DCA767?text=Patates+Salatası',
+    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'salad-003',
@@ -87,7 +87,7 @@ export const products = [
     description: 'Taze makarna, sebzeler ve özel sos ile hazırlanan salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/400x300/FFFBF2/4A4238?text=Makarna+Salatası',
+    image: 'https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=400&h=300&fit=crop&auto=format',
   },
   {
     id: 'salad-004',
@@ -96,6 +96,6 @@ export const products = [
     description: 'Arpa şehriye, sebzeler ve özel sos ile hazırlanan tavuksuz salata.',
     price: 200,
     unit: 'Yarım Kilo',
-    image: 'https://placehold.co/400x300/F7E7DE/4A4238?text=Arpa+Şehriye+Salatası',
+    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop&auto=format',
   },
 ]
