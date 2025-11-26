@@ -43,7 +43,7 @@ const ContactPage = () => {
             </h2>
             <div className="space-y-4">
               <a
-                href="https://wa.me/905001112233"
+                href="https://wa.me/905072635700"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 rounded-xl bg-white/80 p-4 shadow-sm transition hover:bg-white hover:shadow-md"
@@ -58,7 +58,7 @@ const ContactPage = () => {
               </a>
 
               <a
-                href="tel:+905001112233"
+                href="tel:+905072635700"
                 className="flex items-center gap-4 rounded-xl bg-white/80 p-4 shadow-sm transition hover:bg-white hover:shadow-md"
               >
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gold/10 text-gold">

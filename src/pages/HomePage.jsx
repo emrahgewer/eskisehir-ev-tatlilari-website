@@ -49,7 +49,7 @@ const HomePage = () => {
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a
-              href="https://wa.me/905001112233"
+              href="https://wa.me/905072635700"
               target="_blank"
               rel="noreferrer"
               className="rounded-full bg-gold px-6 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-rose"

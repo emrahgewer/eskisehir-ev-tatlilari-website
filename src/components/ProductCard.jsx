@@ -19,7 +19,7 @@ const ProductCard = ({ name, description, price, unit, image }) => {
             <span className="text-xs font-normal text-muted">/ {unit}</span>
           </span>
           <a
-            href={`https://wa.me/905001112233?text=${message}`}
+            href={`https://wa.me/905072635700?text=${message}`}
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-rose/10 px-3 py-1.5 text-sm font-semibold text-rose transition hover:bg-rose/20"

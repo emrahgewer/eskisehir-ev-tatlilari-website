@@ -36,7 +36,7 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-            href="https://wa.me/905001112233"
+            href="https://wa.me/905072635700"
             target="_blank"
             rel="noreferrer"
             className="rounded-full bg-gold px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-rose"
@@ -72,7 +72,7 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="https://wa.me/905001112233"
+              href="https://wa.me/905072635700"
               target="_blank"
               rel="noreferrer"
               className="rounded-full bg-gold px-4 py-2 text-center text-base font-semibold text-white shadow-sm transition hover:bg-rose"
